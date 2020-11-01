@@ -12,7 +12,7 @@
 <body>
   <header class="header" style="background-image: url(img/bg.jpg);">
     <div class="header_inner">
-      <img src="<?php bloginfo( 'template_uri' ); ?>/assets/img/home.png" alt="">
+      <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/home.png" alt="">
       <div class="headr_name">
         timber House
       </div>
